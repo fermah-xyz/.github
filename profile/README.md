@@ -1,4 +1,4 @@
-![Discord Banner42](https://github.com/user-attachments/assets/27e04164-61fe-4db4-85be-1fb6adda0ef4)
+![image](https://github.com/user-attachments/assets/0793c524-33e9-49cd-84d5-672a784c6c1f)
 
 # About Fermah
 
