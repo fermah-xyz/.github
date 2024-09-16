@@ -5,4 +5,4 @@ Fermah is the universal proof generation layer. It functions as a marketplace, w
 
 Fermah is optimized for cheap, fast, and reliable ZK-proof generation.
 
-📚 [Docs](https://docs.fermah.xyz/) | 📖 [Blog](https://www.fermah.xyz/blog)
+📚 [Docs](https://docs.fermah.xyz/) | 📖 [Blog](https://www.fermah.xyz/blog) | 🔗 [Website](https://www.fermah.xyz/)
